@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html,
+  body,
+  #root {
+    height: 100%;
+  }
+
+  body {
+    @apply bg-argus-black text-white/90 font-sans antialiased;
+  }
+
+  ::selection {
+    @apply bg-argus-accent/30 text-white;
+  }
+
+  * {
+    @apply border-argus-border;
+  }
+
+  :focus-visible {
+    outline: 2px solid #c2bbf0;
+    outline-offset: 2px;
+  }
+}
