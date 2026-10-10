@@ -1,0 +1,43 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: argus-backend
+
+  datasource:
+    url: jdbc:postgresql://localhost:5432/argus
+    username: argus
+    password: argus_dev_password
+    driver-class-name: org.postgresql.Driver
+
+  jpa:
+    hibernate:
+      ddl-auto: update # fine for early development; switch to Flyway/Liquibase before production
+    show-sql: false
+    properties:
+      hibernate:
+        format_sql: true
+        jdbc:
+          time_zone: UTC
+
+  servlet:
+    multipart:
+      max-file-size: 5GB
+      max-request-size: 5GB
+
+argus:
+  jwt:
+    # Overridden via ARGUS_JWT_SECRET env var in real deployments. Must be >= 256 bits for HS256.
+    secret: ${ARGUS_JWT_SECRET:dev-only-secret-please-change-this-to-something-random-and-long}
+    expiration-minutes: ${ARGUS_JWT_EXPIRATION_MINUTES:480}
+  storage:
+    # Where original evidence files are stored on disk. Only a reference/path
+    # is stored in the database (see PRD section 16).
+    evidence-root: ${ARGUS_EVIDENCE_ROOT:./data/evidence}
+  ai-service:
+    base-url: ${ARGUS_AI_SERVICE_URL:http://localhost:8000}
+
+logging:
+  level:
+    com.argus: INFO
