@@ -1,0 +1,1950 @@
+{
+  "version": 1,
+  "automatic_merging": false,
+  "total_identities": 95,
+  "identities": [
+    {
+      "global_id": "vehicle_0001",
+      "class": "vehicle",
+      "video_id": "test1",
+      "track_ids": [
+        1
+      ],
+      "embeddings": [
+        {
+          "embedding_id": "vehicle_track_1_frame_102"
+        },
+        {
+          "embedding_id": "vehicle_track_1_frame_132"
+        },
+        {
+          "embedding_id": "vehicle_track_1_frame_162"
+        },
+        {
+          "embedding_id": "vehicle_track_1_frame_192"
+        },
+        {
+          "embedding_id": "vehicle_track_1_frame_222"
+        },
+        {
+          "embedding_id": "vehicle_track_1_frame_252"
+        },
+        {
+          "embedding_id": "vehicle_track_1_frame_282"
+        },
+        {
+          "embedding_id": "vehicle_track_1_frame_312"
+        },
+        {
+          "embedding_id": "vehicle_track_1_frame_342"
+        },
+        {
+          "embedding_id": "vehicle_track_1_frame_372"
+        },
+        {
+          "embedding_id": "vehicle_track_1_frame_402"
+        },
+        {
+          "embedding_id": "vehicle_track_1_frame_432"
+        },
+        {
+          "embedding_id": "vehicle_track_1_frame_462"
+        },
+        {
+          "embedding_id": "vehicle_track_1_frame_492"
+        },
+        {
+          "embedding_id": "vehicle_track_1_frame_522"
+        },
+        {
+          "embedding_id": "vehicle_track_1_frame_552"
+        },
+        {
+          "embedding_id": "vehicle_track_1_frame_582"
+        },
+        {
+          "embedding_id": "vehicle_track_1_frame_612"
+        },
+        {
+          "embedding_id": "vehicle_track_1_frame_642"
+        },
+        {
+          "embedding_id": "vehicle_track_1_frame_672"
+        },
+        {
+          "embedding_id": "vehicle_track_1_frame_702"
+        },
+        {
+          "embedding_id": "vehicle_track_1_frame_733"
+        },
+        {
+          "embedding_id": "vehicle_track_1_frame_763"
+        },
+        {
+          "embedding_id": "vehicle_track_1_frame_793"
+        },
+        {
+          "embedding_id": "vehicle_track_1_frame_823"
+        },
+        {
+          "embedding_id": "vehicle_track_1_frame_853"
+        },
+        {
+          "embedding_id": "vehicle_track_1_frame_883"
+        },
+        {
+          "embedding_id": "vehicle_track_1_frame_913"
+        },
+        {
+          "embedding_id": "vehicle_track_1_frame_943"
+        },
+        {
+          "embedding_id": "vehicle_track_1_frame_973"
+        },
+        {
+          "embedding_id": "vehicle_track_1_frame_1003"
+        },
+        {
+          "embedding_id": "vehicle_track_1_frame_1033"
+        },
+        {
+          "embedding_id": "vehicle_track_1_frame_1063"
+        },
+        {
+          "embedding_id": "vehicle_track_1_frame_1093"
+        },
+        {
+          "embedding_id": "vehicle_track_1_frame_1123"
+        },
+        {
+          "embedding_id": "vehicle_track_1_frame_1153"
+        },
+        {
+          "embedding_id": "vehicle_track_1_frame_1183"
+        },
+        {
+          "embedding_id": "vehicle_track_1_frame_1213"
+        },
+        {
+          "embedding_id": "vehicle_track_1_frame_1243"
+        },
+        {
+          "embedding_id": "vehicle_track_1_frame_1273"
+        },
+        {
+          "embedding_id": "vehicle_track_1_frame_1308"
+        },
+        {
+          "embedding_id": "vehicle_track_1_frame_1369"
+        },
+        {
+          "embedding_id": "vehicle_track_1_frame_1399"
+        },
+        {
+          "embedding_id": "vehicle_track_1_frame_1429"
+        },
+        {
+          "embedding_id": "vehicle_track_1_frame_1459"
+        },
+        {
+          "embedding_id": "vehicle_track_1_frame_1489"
+        },
+        {
+          "embedding_id": "vehicle_track_1_frame_1519"
+        },
+        {
+          "embedding_id": "vehicle_track_1_frame_1549"
+        },
+        {
+          "embedding_id": "vehicle_track_1_frame_1579"
+        },
+        {
+          "embedding_id": "vehicle_track_1_frame_1609"
+        },
+        {
+          "embedding_id": "vehicle_track_1_frame_1639"
+        },
+        {
+          "embedding_id": "vehicle_track_1_frame_1669"
+        }
+      ]
+    },
+    {
+      "global_id": "person_0001",
+      "class": "person",
+      "video_id": "test1",
+      "track_ids": [
+        2
+      ],
+      "embeddings": [
+        {
+          "embedding_id": "person_track_2_frame_102"
+        },
+        {
+          "embedding_id": "person_track_2_frame_132"
+        }
+      ]
+    },
+    {
+      "global_id": "person_0002",
+      "class": "person",
+      "video_id": "test1",
+      "track_ids": [
+        3
+      ],
+      "embeddings": [
+        {
+          "embedding_id": "person_track_3_frame_102"
+        },
+        {
+          "embedding_id": "person_track_3_frame_132"
+        }
+      ]
+    },
+    {
+      "global_id": "person_0003",
+      "class": "person",
+      "video_id": "test1",
+      "track_ids": [
+        4
+      ],
+      "embeddings": [
+        {
+          "embedding_id": "person_track_4_frame_102"
+        }
+      ]
+    },
+    {
+      "global_id": "vehicle_0002",
+      "class": "vehicle",
+      "video_id": "test1",
+      "track_ids": [
+        6
+      ],
+      "embeddings": [
+        {
+          "embedding_id": "vehicle_track_6_frame_102"
+        },
+        {
+          "embedding_id": "vehicle_track_6_frame_132"
+        },
+        {
+          "embedding_id": "vehicle_track_6_frame_163"
+        },
+        {
+          "embedding_id": "vehicle_track_6_frame_193"
+        }
+      ]
+    },
+    {
+      "global_id": "person_0004",
+      "class": "person",
+      "video_id": "test1",
+      "track_ids": [
+        30
+      ],
+      "embeddings": [
+        {
+          "embedding_id": "person_track_30_frame_108"
+        }
+      ]
+    },
+    {
+      "global_id": "person_0005",
+      "class": "person",
+      "video_id": "test1",
+      "track_ids": [
+        26
+      ],
+      "embeddings": [
+        {
+          "embedding_id": "person_track_26_frame_109"
+        },
+        {
+          "embedding_id": "person_track_26_frame_139"
+        },
+        {
+          "embedding_id": "person_track_26_frame_169"
+        },
+        {
+          "embedding_id": "person_track_26_frame_199"
+        },
+        {
+          "embedding_id": "person_track_26_frame_231"
+        },
+        {
+          "embedding_id": "person_track_26_frame_269"
+        },
+        {
+          "embedding_id": "person_track_26_frame_299"
+        }
+      ]
+    },
+    {
+      "global_id": "vehicle_0003",
+      "class": "vehicle",
+      "video_id": "test1",
+      "track_ids": [
+        16
+      ],
+      "embeddings": [
+        {
+          "embedding_id": "vehicle_track_16_frame_121"
+        },
+        {
+          "embedding_id": "vehicle_track_16_frame_154"
+        },
+        {
+          "embedding_id": "vehicle_track_16_frame_184"
+        },
+        {
+          "embedding_id": "vehicle_track_16_frame_214"
+        },
+        {
+          "embedding_id": "vehicle_track_16_frame_244"
+        },
+        {
+          "embedding_id": "vehicle_track_16_frame_274"
+        }
+      ]
+    },
+    {
+      "global_id": "person_0006",
+      "class": "person",
+      "video_id": "test1",
+      "track_ids": [
+        54
+      ],
+      "embeddings": [
+        {
+          "embedding_id": "person_track_54_frame_127"
+        },
+        {
+          "embedding_id": "person_track_54_frame_157"
+        },
+        {
+          "embedding_id": "person_track_54_frame_187"
+        },
+        {
+          "embedding_id": "person_track_54_frame_217"
+        },
+        {
+          "embedding_id": "person_track_54_frame_247"
+        }
+      ]
+    },
+    {
+      "global_id": "person_0007",
+      "class": "person",
+      "video_id": "test1",
+      "track_ids": [
+        121
+      ],
+      "embeddings": [
+        {
+          "embedding_id": "person_track_121_frame_162"
+        },
+        {
+          "embedding_id": "person_track_121_frame_192"
+        },
+        {
+          "embedding_id": "person_track_121_frame_222"
+        },
+        {
+          "embedding_id": "person_track_121_frame_252"
+        },
+        {
+          "embedding_id": "person_track_121_frame_282"
+        },
+        {
+          "embedding_id": "person_track_121_frame_312"
+        },
+        {
+          "embedding_id": "person_track_121_frame_342"
+        },
+        {
+          "embedding_id": "person_track_121_frame_372"
+        },
+        {
+          "embedding_id": "person_track_121_frame_402"
+        }
+      ]
+    },
+    {
+      "global_id": "person_0008",
+      "class": "person",
+      "video_id": "test1",
+      "track_ids": [
+        150
+      ],
+      "embeddings": [
+        {
+          "embedding_id": "person_track_150_frame_181"
+        }
+      ]
+    },
+    {
+      "global_id": "person_0009",
+      "class": "person",
+      "video_id": "test1",
+      "track_ids": [
+        164
+      ],
+      "embeddings": [
+        {
+          "embedding_id": "person_track_164_frame_191"
+        },
+        {
+          "embedding_id": "person_track_164_frame_221"
+        },
+        {
+          "embedding_id": "person_track_164_frame_251"
+        }
+      ]
+    },
+    {
+      "global_id": "vehicle_0004",
+      "class": "vehicle",
+      "video_id": "test1",
+      "track_ids": [
+        175
+      ],
+      "embeddings": [
+        {
+          "embedding_id": "vehicle_track_175_frame_197"
+        },
+        {
+          "embedding_id": "vehicle_track_175_frame_227"
+        }
+      ]
+    },
+    {
+      "global_id": "vehicle_0005",
+      "class": "vehicle",
+      "video_id": "test1",
+      "track_ids": [
+        196
+      ],
+      "embeddings": [
+        {
+          "embedding_id": "vehicle_track_196_frame_213"
+        },
+        {
+          "embedding_id": "vehicle_track_196_frame_243"
+        }
+      ]
+    },
+    {
+      "global_id": "person_0010",
+      "class": "person",
+      "video_id": "test1",
+      "track_ids": [
+        201
+      ],
+      "embeddings": [
+        {
+          "embedding_id": "person_track_201_frame_229"
+        },
+        {
+          "embedding_id": "person_track_201_frame_261"
+        },
+        {
+          "embedding_id": "person_track_201_frame_291"
+        },
+        {
+          "embedding_id": "person_track_201_frame_321"
+        },
+        {
+          "embedding_id": "person_track_201_frame_351"
+        },
+        {
+          "embedding_id": "person_track_201_frame_381"
+        },
+        {
+          "embedding_id": "person_track_201_frame_411"
+        },
+        {
+          "embedding_id": "person_track_201_frame_441"
+        }
+      ]
+    },
+    {
+      "global_id": "vehicle_0006",
+      "class": "vehicle",
+      "video_id": "test1",
+      "track_ids": [
+        203
+      ],
+      "embeddings": [
+        {
+          "embedding_id": "vehicle_track_203_frame_234"
+        },
+        {
+          "embedding_id": "vehicle_track_203_frame_280"
+        },
+        {
+          "embedding_id": "vehicle_track_203_frame_310"
+        }
+      ]
+    },
+    {
+      "global_id": "person_0011",
+      "class": "person",
+      "video_id": "test1",
+      "track_ids": [
+        198
+      ],
+      "embeddings": [
+        {
+          "embedding_id": "person_track_198_frame_236"
+        },
+        {
+          "embedding_id": "person_track_198_frame_266"
+        },
+        {
+          "embedding_id": "person_track_198_frame_299"
+        },
+        {
+          "embedding_id": "person_track_198_frame_329"
+        },
+        {
+          "embedding_id": "person_track_198_frame_359"
+        }
+      ]
+    },
+    {
+      "global_id": "person_0012",
+      "class": "person",
+      "video_id": "test1",
+      "track_ids": [
+        5
+      ],
+      "embeddings": [
+        {
+          "embedding_id": "person_track_5_frame_251"
+        }
+      ]
+    },
+    {
+      "global_id": "person_0013",
+      "class": "person",
+      "video_id": "test1",
+      "track_ids": [
+        226
+      ],
+      "embeddings": [
+        {
+          "embedding_id": "person_track_226_frame_253"
+        },
+        {
+          "embedding_id": "person_track_226_frame_283"
+        }
+      ]
+    },
+    {
+      "global_id": "person_0014",
+      "class": "person",
+      "video_id": "test1",
+      "track_ids": [
+        204
+      ],
+      "embeddings": [
+        {
+          "embedding_id": "person_track_204_frame_254"
+        }
+      ]
+    },
+    {
+      "global_id": "person_0015",
+      "class": "person",
+      "video_id": "test1",
+      "track_ids": [
+        230
+      ],
+      "embeddings": [
+        {
+          "embedding_id": "person_track_230_frame_255"
+        }
+      ]
+    },
+    {
+      "global_id": "person_0016",
+      "class": "person",
+      "video_id": "test1",
+      "track_ids": [
+        227
+      ],
+      "embeddings": [
+        {
+          "embedding_id": "person_track_227_frame_281"
+        }
+      ]
+    },
+    {
+      "global_id": "person_0017",
+      "class": "person",
+      "video_id": "test1",
+      "track_ids": [
+        331
+      ],
+      "embeddings": [
+        {
+          "embedding_id": "person_track_331_frame_298"
+        }
+      ]
+    },
+    {
+      "global_id": "vehicle_0007",
+      "class": "vehicle",
+      "video_id": "test1",
+      "track_ids": [
+        357
+      ],
+      "embeddings": [
+        {
+          "embedding_id": "vehicle_track_357_frame_311"
+        },
+        {
+          "embedding_id": "vehicle_track_357_frame_341"
+        }
+      ]
+    },
+    {
+      "global_id": "person_0018",
+      "class": "person",
+      "video_id": "test1",
+      "track_ids": [
+        445
+      ],
+      "embeddings": [
+        {
+          "embedding_id": "person_track_445_frame_348"
+        },
+        {
+          "embedding_id": "person_track_445_frame_378"
+        },
+        {
+          "embedding_id": "person_track_445_frame_408"
+        },
+        {
+          "embedding_id": "person_track_445_frame_438"
+        },
+        {
+          "embedding_id": "person_track_445_frame_468"
+        }
+      ]
+    },
+    {
+      "global_id": "person_0019",
+      "class": "person",
+      "video_id": "test1",
+      "track_ids": [
+        459
+      ],
+      "embeddings": [
+        {
+          "embedding_id": "person_track_459_frame_358"
+        }
+      ]
+    },
+    {
+      "global_id": "person_0020",
+      "class": "person",
+      "video_id": "test1",
+      "track_ids": [
+        471
+      ],
+      "embeddings": [
+        {
+          "embedding_id": "person_track_471_frame_371"
+        },
+        {
+          "embedding_id": "person_track_471_frame_401"
+        },
+        {
+          "embedding_id": "person_track_471_frame_431"
+        },
+        {
+          "embedding_id": "person_track_471_frame_461"
+        },
+        {
+          "embedding_id": "person_track_471_frame_491"
+        },
+        {
+          "embedding_id": "person_track_471_frame_521"
+        }
+      ]
+    },
+    {
+      "global_id": "person_0021",
+      "class": "person",
+      "video_id": "test1",
+      "track_ids": [
+        465
+      ],
+      "embeddings": [
+        {
+          "embedding_id": "person_track_465_frame_379"
+        },
+        {
+          "embedding_id": "person_track_465_frame_409"
+        },
+        {
+          "embedding_id": "person_track_465_frame_439"
+        },
+        {
+          "embedding_id": "person_track_465_frame_469"
+        },
+        {
+          "embedding_id": "person_track_465_frame_499"
+        },
+        {
+          "embedding_id": "person_track_465_frame_531"
+        }
+      ]
+    },
+    {
+      "global_id": "vehicle_0008",
+      "class": "vehicle",
+      "video_id": "test1",
+      "track_ids": [
+        498
+      ],
+      "embeddings": [
+        {
+          "embedding_id": "vehicle_track_498_frame_387"
+        },
+        {
+          "embedding_id": "vehicle_track_498_frame_417"
+        },
+        {
+          "embedding_id": "vehicle_track_498_frame_447"
+        },
+        {
+          "embedding_id": "vehicle_track_498_frame_477"
+        },
+        {
+          "embedding_id": "vehicle_track_498_frame_507"
+        },
+        {
+          "embedding_id": "vehicle_track_498_frame_538"
+        },
+        {
+          "embedding_id": "vehicle_track_498_frame_635"
+        },
+        {
+          "embedding_id": "vehicle_track_498_frame_665"
+        },
+        {
+          "embedding_id": "vehicle_track_498_frame_695"
+        }
+      ]
+    },
+    {
+      "global_id": "vehicle_0009",
+      "class": "vehicle",
+      "video_id": "test1",
+      "track_ids": [
+        472
+      ],
+      "embeddings": [
+        {
+          "embedding_id": "vehicle_track_472_frame_407"
+        },
+        {
+          "embedding_id": "vehicle_track_472_frame_450"
+        }
+      ]
+    },
+    {
+      "global_id": "vehicle_0010",
+      "class": "vehicle",
+      "video_id": "test1",
+      "track_ids": [
+        525
+      ],
+      "embeddings": [
+        {
+          "embedding_id": "vehicle_track_525_frame_431"
+        }
+      ]
+    },
+    {
+      "global_id": "person_0022",
+      "class": "person",
+      "video_id": "test1",
+      "track_ids": [
+        383
+      ],
+      "embeddings": [
+        {
+          "embedding_id": "person_track_383_frame_486"
+        }
+      ]
+    },
+    {
+      "global_id": "person_0023",
+      "class": "person",
+      "video_id": "test1",
+      "track_ids": [
+        574
+      ],
+      "embeddings": [
+        {
+          "embedding_id": "person_track_574_frame_486"
+        },
+        {
+          "embedding_id": "person_track_574_frame_516"
+        },
+        {
+          "embedding_id": "person_track_574_frame_546"
+        },
+        {
+          "embedding_id": "person_track_574_frame_576"
+        },
+        {
+          "embedding_id": "person_track_574_frame_606"
+        },
+        {
+          "embedding_id": "person_track_574_frame_636"
+        }
+      ]
+    },
+    {
+      "global_id": "person_0024",
+      "class": "person",
+      "video_id": "test1",
+      "track_ids": [
+        554
+      ],
+      "embeddings": [
+        {
+          "embedding_id": "person_track_554_frame_530"
+        },
+        {
+          "embedding_id": "person_track_554_frame_734"
+        },
+        {
+          "embedding_id": "person_track_554_frame_806"
+        }
+      ]
+    },
+    {
+      "global_id": "vehicle_0011",
+      "class": "vehicle",
+      "video_id": "test1",
+      "track_ids": [
+        660
+      ],
+      "embeddings": [
+        {
+          "embedding_id": "vehicle_track_660_frame_632"
+        },
+        {
+          "embedding_id": "vehicle_track_660_frame_662"
+        },
+        {
+          "embedding_id": "vehicle_track_660_frame_692"
+        },
+        {
+          "embedding_id": "vehicle_track_660_frame_722"
+        },
+        {
+          "embedding_id": "vehicle_track_660_frame_753"
+        }
+      ]
+    },
+    {
+      "global_id": "vehicle_0012",
+      "class": "vehicle",
+      "video_id": "test1",
+      "track_ids": [
+        675
+      ],
+      "embeddings": [
+        {
+          "embedding_id": "vehicle_track_675_frame_651"
+        }
+      ]
+    },
+    {
+      "global_id": "person_0025",
+      "class": "person",
+      "video_id": "test1",
+      "track_ids": [
+        718
+      ],
+      "embeddings": [
+        {
+          "embedding_id": "person_track_718_frame_702"
+        },
+        {
+          "embedding_id": "person_track_718_frame_732"
+        },
+        {
+          "embedding_id": "person_track_718_frame_762"
+        },
+        {
+          "embedding_id": "person_track_718_frame_800"
+        }
+      ]
+    },
+    {
+      "global_id": "vehicle_0013",
+      "class": "vehicle",
+      "video_id": "test1",
+      "track_ids": [
+        724
+      ],
+      "embeddings": [
+        {
+          "embedding_id": "vehicle_track_724_frame_711"
+        },
+        {
+          "embedding_id": "vehicle_track_724_frame_755"
+        },
+        {
+          "embedding_id": "vehicle_track_724_frame_790"
+        },
+        {
+          "embedding_id": "vehicle_track_724_frame_838"
+        },
+        {
+          "embedding_id": "vehicle_track_724_frame_896"
+        },
+        {
+          "embedding_id": "vehicle_track_724_frame_1101"
+        },
+        {
+          "embedding_id": "vehicle_track_724_frame_1131"
+        },
+        {
+          "embedding_id": "vehicle_track_724_frame_1161"
+        },
+        {
+          "embedding_id": "vehicle_track_724_frame_1191"
+        },
+        {
+          "embedding_id": "vehicle_track_724_frame_1221"
+        },
+        {
+          "embedding_id": "vehicle_track_724_frame_1369"
+        },
+        {
+          "embedding_id": "vehicle_track_724_frame_1408"
+        },
+        {
+          "embedding_id": "vehicle_track_724_frame_1448"
+        }
+      ]
+    },
+    {
+      "global_id": "person_0026",
+      "class": "person",
+      "video_id": "test1",
+      "track_ids": [
+        802
+      ],
+      "embeddings": [
+        {
+          "embedding_id": "person_track_802_frame_772"
+        }
+      ]
+    },
+    {
+      "global_id": "person_0027",
+      "class": "person",
+      "video_id": "test1",
+      "track_ids": [
+        827
+      ],
+      "embeddings": [
+        {
+          "embedding_id": "person_track_827_frame_786"
+        },
+        {
+          "embedding_id": "person_track_827_frame_816"
+        }
+      ]
+    },
+    {
+      "global_id": "person_0028",
+      "class": "person",
+      "video_id": "test1",
+      "track_ids": [
+        840
+      ],
+      "embeddings": [
+        {
+          "embedding_id": "person_track_840_frame_793"
+        },
+        {
+          "embedding_id": "person_track_840_frame_823"
+        },
+        {
+          "embedding_id": "person_track_840_frame_853"
+        },
+        {
+          "embedding_id": "person_track_840_frame_883"
+        }
+      ]
+    },
+    {
+      "global_id": "person_0029",
+      "class": "person",
+      "video_id": "test1",
+      "track_ids": [
+        900
+      ],
+      "embeddings": [
+        {
+          "embedding_id": "person_track_900_frame_842"
+        },
+        {
+          "embedding_id": "person_track_900_frame_881"
+        }
+      ]
+    },
+    {
+      "global_id": "person_0030",
+      "class": "person",
+      "video_id": "test1",
+      "track_ids": [
+        924
+      ],
+      "embeddings": [
+        {
+          "embedding_id": "person_track_924_frame_860"
+        },
+        {
+          "embedding_id": "person_track_924_frame_890"
+        },
+        {
+          "embedding_id": "person_track_924_frame_920"
+        },
+        {
+          "embedding_id": "person_track_924_frame_950"
+        },
+        {
+          "embedding_id": "person_track_924_frame_980"
+        },
+        {
+          "embedding_id": "person_track_924_frame_1010"
+        },
+        {
+          "embedding_id": "person_track_924_frame_1040"
+        },
+        {
+          "embedding_id": "person_track_924_frame_1070"
+        }
+      ]
+    },
+    {
+      "global_id": "person_0031",
+      "class": "person",
+      "video_id": "test1",
+      "track_ids": [
+        984
+      ],
+      "embeddings": [
+        {
+          "embedding_id": "person_track_984_frame_902"
+        },
+        {
+          "embedding_id": "person_track_984_frame_932"
+        },
+        {
+          "embedding_id": "person_track_984_frame_962"
+        },
+        {
+          "embedding_id": "person_track_984_frame_992"
+        },
+        {
+          "embedding_id": "person_track_984_frame_1022"
+        },
+        {
+          "embedding_id": "person_track_984_frame_1052"
+        },
+        {
+          "embedding_id": "person_track_984_frame_1082"
+        },
+        {
+          "embedding_id": "person_track_984_frame_1112"
+        }
+      ]
+    },
+    {
+      "global_id": "person_0032",
+      "class": "person",
+      "video_id": "test1",
+      "track_ids": [
+        1008
+      ],
+      "embeddings": [
+        {
+          "embedding_id": "person_track_1008_frame_929"
+        },
+        {
+          "embedding_id": "person_track_1008_frame_959"
+        },
+        {
+          "embedding_id": "person_track_1008_frame_989"
+        },
+        {
+          "embedding_id": "person_track_1008_frame_1019"
+        }
+      ]
+    },
+    {
+      "global_id": "person_0033",
+      "class": "person",
+      "video_id": "test1",
+      "track_ids": [
+        1220
+      ],
+      "embeddings": [
+        {
+          "embedding_id": "person_track_1220_frame_1011"
+        },
+        {
+          "embedding_id": "person_track_1220_frame_1041"
+        },
+        {
+          "embedding_id": "person_track_1220_frame_1071"
+        },
+        {
+          "embedding_id": "person_track_1220_frame_1101"
+        },
+        {
+          "embedding_id": "person_track_1220_frame_1131"
+        }
+      ]
+    },
+    {
+      "global_id": "person_0034",
+      "class": "person",
+      "video_id": "test1",
+      "track_ids": [
+        1009
+      ],
+      "embeddings": [
+        {
+          "embedding_id": "person_track_1009_frame_1014"
+        },
+        {
+          "embedding_id": "person_track_1009_frame_1051"
+        },
+        {
+          "embedding_id": "person_track_1009_frame_1086"
+        },
+        {
+          "embedding_id": "person_track_1009_frame_1116"
+        }
+      ]
+    },
+    {
+      "global_id": "person_0035",
+      "class": "person",
+      "video_id": "test1",
+      "track_ids": [
+        1507
+      ],
+      "embeddings": [
+        {
+          "embedding_id": "person_track_1507_frame_1134"
+        },
+        {
+          "embedding_id": "person_track_1507_frame_1185"
+        }
+      ]
+    },
+    {
+      "global_id": "person_0036",
+      "class": "person",
+      "video_id": "test1",
+      "track_ids": [
+        1619
+      ],
+      "embeddings": [
+        {
+          "embedding_id": "person_track_1619_frame_1199"
+        }
+      ]
+    },
+    {
+      "global_id": "vehicle_0014",
+      "class": "vehicle",
+      "video_id": "test1",
+      "track_ids": [
+        1729
+      ],
+      "embeddings": [
+        {
+          "embedding_id": "vehicle_track_1729_frame_1210"
+        }
+      ]
+    },
+    {
+      "global_id": "person_0037",
+      "class": "person",
+      "video_id": "test1",
+      "track_ids": [
+        1716
+      ],
+      "embeddings": [
+        {
+          "embedding_id": "person_track_1716_frame_1217"
+        },
+        {
+          "embedding_id": "person_track_1716_frame_1247"
+        },
+        {
+          "embedding_id": "person_track_1716_frame_1277"
+        },
+        {
+          "embedding_id": "person_track_1716_frame_1307"
+        },
+        {
+          "embedding_id": "person_track_1716_frame_1337"
+        },
+        {
+          "embedding_id": "person_track_1716_frame_1367"
+        },
+        {
+          "embedding_id": "person_track_1716_frame_1397"
+        }
+      ]
+    },
+    {
+      "global_id": "vehicle_0015",
+      "class": "vehicle",
+      "video_id": "test1",
+      "track_ids": [
+        1770
+      ],
+      "embeddings": [
+        {
+          "embedding_id": "vehicle_track_1770_frame_1221"
+        },
+        {
+          "embedding_id": "vehicle_track_1770_frame_1269"
+        },
+        {
+          "embedding_id": "vehicle_track_1770_frame_1299"
+        },
+        {
+          "embedding_id": "vehicle_track_1770_frame_1329"
+        }
+      ]
+    },
+    {
+      "global_id": "person_0038",
+      "class": "person",
+      "video_id": "test1",
+      "track_ids": [
+        1263
+      ],
+      "embeddings": [
+        {
+          "embedding_id": "person_track_1263_frame_1229"
+        },
+        {
+          "embedding_id": "person_track_1263_frame_1259"
+        },
+        {
+          "embedding_id": "person_track_1263_frame_1289"
+        },
+        {
+          "embedding_id": "person_track_1263_frame_1319"
+        },
+        {
+          "embedding_id": "person_track_1263_frame_1349"
+        },
+        {
+          "embedding_id": "person_track_1263_frame_1379"
+        },
+        {
+          "embedding_id": "person_track_1263_frame_1409"
+        }
+      ]
+    },
+    {
+      "global_id": "vehicle_0016",
+      "class": "vehicle",
+      "video_id": "test1",
+      "track_ids": [
+        1867
+      ],
+      "embeddings": [
+        {
+          "embedding_id": "vehicle_track_1867_frame_1274"
+        }
+      ]
+    },
+    {
+      "global_id": "person_0039",
+      "class": "person",
+      "video_id": "test1",
+      "track_ids": [
+        1924
+      ],
+      "embeddings": [
+        {
+          "embedding_id": "person_track_1924_frame_1290"
+        }
+      ]
+    },
+    {
+      "global_id": "vehicle_0017",
+      "class": "vehicle",
+      "video_id": "test1",
+      "track_ids": [
+        1934
+      ],
+      "embeddings": [
+        {
+          "embedding_id": "vehicle_track_1934_frame_1293"
+        }
+      ]
+    },
+    {
+      "global_id": "vehicle_0018",
+      "class": "vehicle",
+      "video_id": "test1",
+      "track_ids": [
+        1760
+      ],
+      "embeddings": [
+        {
+          "embedding_id": "vehicle_track_1760_frame_1293"
+        },
+        {
+          "embedding_id": "vehicle_track_1760_frame_1326"
+        }
+      ]
+    },
+    {
+      "global_id": "person_0040",
+      "class": "person",
+      "video_id": "test1",
+      "track_ids": [
+        1754
+      ],
+      "embeddings": [
+        {
+          "embedding_id": "person_track_1754_frame_1305"
+        }
+      ]
+    },
+    {
+      "global_id": "person_0041",
+      "class": "person",
+      "video_id": "test1",
+      "track_ids": [
+        1996
+      ],
+      "embeddings": [
+        {
+          "embedding_id": "person_track_1996_frame_1310"
+        },
+        {
+          "embedding_id": "person_track_1996_frame_1341"
+        },
+        {
+          "embedding_id": "person_track_1996_frame_1371"
+        },
+        {
+          "embedding_id": "person_track_1996_frame_1401"
+        },
+        {
+          "embedding_id": "person_track_1996_frame_1431"
+        }
+      ]
+    },
+    {
+      "global_id": "vehicle_0019",
+      "class": "vehicle",
+      "video_id": "test1",
+      "track_ids": [
+        1956
+      ],
+      "embeddings": [
+        {
+          "embedding_id": "vehicle_track_1956_frame_1332"
+        }
+      ]
+    },
+    {
+      "global_id": "person_0042",
+      "class": "person",
+      "video_id": "test1",
+      "track_ids": [
+        2084
+      ],
+      "embeddings": [
+        {
+          "embedding_id": "person_track_2084_frame_1343"
+        },
+        {
+          "embedding_id": "person_track_2084_frame_1373"
+        },
+        {
+          "embedding_id": "person_track_2084_frame_1403"
+        },
+        {
+          "embedding_id": "person_track_2084_frame_1433"
+        },
+        {
+          "embedding_id": "person_track_2084_frame_1463"
+        },
+        {
+          "embedding_id": "person_track_2084_frame_1493"
+        },
+        {
+          "embedding_id": "person_track_2084_frame_1535"
+        },
+        {
+          "embedding_id": "person_track_2084_frame_1565"
+        }
+      ]
+    },
+    {
+      "global_id": "person_0043",
+      "class": "person",
+      "video_id": "test1",
+      "track_ids": [
+        2103
+      ],
+      "embeddings": [
+        {
+          "embedding_id": "person_track_2103_frame_1353"
+        }
+      ]
+    },
+    {
+      "global_id": "person_0044",
+      "class": "person",
+      "video_id": "test1",
+      "track_ids": [
+        1957
+      ],
+      "embeddings": [
+        {
+          "embedding_id": "person_track_1957_frame_1363"
+        }
+      ]
+    },
+    {
+      "global_id": "vehicle_0020",
+      "class": "vehicle",
+      "video_id": "test1",
+      "track_ids": [
+        2108
+      ],
+      "embeddings": [
+        {
+          "embedding_id": "vehicle_track_2108_frame_1363"
+        }
+      ]
+    },
+    {
+      "global_id": "vehicle_0021",
+      "class": "vehicle",
+      "video_id": "test1",
+      "track_ids": [
+        1950
+      ],
+      "embeddings": [
+        {
+          "embedding_id": "vehicle_track_1950_frame_1364"
+        }
+      ]
+    },
+    {
+      "global_id": "person_0045",
+      "class": "person",
+      "video_id": "test1",
+      "track_ids": [
+        1736
+      ],
+      "embeddings": [
+        {
+          "embedding_id": "person_track_1736_frame_1375"
+        }
+      ]
+    },
+    {
+      "global_id": "person_0046",
+      "class": "person",
+      "video_id": "test1",
+      "track_ids": [
+        1801
+      ],
+      "embeddings": [
+        {
+          "embedding_id": "person_track_1801_frame_1388"
+        }
+      ]
+    },
+    {
+      "global_id": "person_0047",
+      "class": "person",
+      "video_id": "test1",
+      "track_ids": [
+        2230
+      ],
+      "embeddings": [
+        {
+          "embedding_id": "person_track_2230_frame_1408"
+        },
+        {
+          "embedding_id": "person_track_2230_frame_1438"
+        },
+        {
+          "embedding_id": "person_track_2230_frame_1474"
+        }
+      ]
+    },
+    {
+      "global_id": "person_0048",
+      "class": "person",
+      "video_id": "test1",
+      "track_ids": [
+        2281
+      ],
+      "embeddings": [
+        {
+          "embedding_id": "person_track_2281_frame_1425"
+        },
+        {
+          "embedding_id": "person_track_2281_frame_1455"
+        },
+        {
+          "embedding_id": "person_track_2281_frame_1485"
+        }
+      ]
+    },
+    {
+      "global_id": "person_0049",
+      "class": "person",
+      "video_id": "test1",
+      "track_ids": [
+        2071
+      ],
+      "embeddings": [
+        {
+          "embedding_id": "person_track_2071_frame_1428"
+        },
+        {
+          "embedding_id": "person_track_2071_frame_1520"
+        },
+        {
+          "embedding_id": "person_track_2071_frame_1550"
+        },
+        {
+          "embedding_id": "person_track_2071_frame_1580"
+        }
+      ]
+    },
+    {
+      "global_id": "vehicle_0022",
+      "class": "vehicle",
+      "video_id": "test1",
+      "track_ids": [
+        2307
+      ],
+      "embeddings": [
+        {
+          "embedding_id": "vehicle_track_2307_frame_1429"
+        },
+        {
+          "embedding_id": "vehicle_track_2307_frame_1460"
+        },
+        {
+          "embedding_id": "vehicle_track_2307_frame_1492"
+        },
+        {
+          "embedding_id": "vehicle_track_2307_frame_1531"
+        },
+        {
+          "embedding_id": "vehicle_track_2307_frame_1561"
+        },
+        {
+          "embedding_id": "vehicle_track_2307_frame_1614"
+        }
+      ]
+    },
+    {
+      "global_id": "person_0050",
+      "class": "person",
+      "video_id": "test1",
+      "track_ids": [
+        2248
+      ],
+      "embeddings": [
+        {
+          "embedding_id": "person_track_2248_frame_1434"
+        },
+        {
+          "embedding_id": "person_track_2248_frame_1464"
+        },
+        {
+          "embedding_id": "person_track_2248_frame_1494"
+        },
+        {
+          "embedding_id": "person_track_2248_frame_1524"
+        },
+        {
+          "embedding_id": "person_track_2248_frame_1554"
+        }
+      ]
+    },
+    {
+      "global_id": "person_0051",
+      "class": "person",
+      "video_id": "test1",
+      "track_ids": [
+        2459
+      ],
+      "embeddings": [
+        {
+          "embedding_id": "person_track_2459_frame_1482"
+        },
+        {
+          "embedding_id": "person_track_2459_frame_1512"
+        }
+      ]
+    },
+    {
+      "global_id": "person_0052",
+      "class": "person",
+      "video_id": "test1",
+      "track_ids": [
+        2497
+      ],
+      "embeddings": [
+        {
+          "embedding_id": "person_track_2497_frame_1491"
+        },
+        {
+          "embedding_id": "person_track_2497_frame_1527"
+        }
+      ]
+    },
+    {
+      "global_id": "vehicle_0023",
+      "class": "vehicle",
+      "video_id": "test1",
+      "track_ids": [
+        2521
+      ],
+      "embeddings": [
+        {
+          "embedding_id": "vehicle_track_2521_frame_1496"
+        },
+        {
+          "embedding_id": "vehicle_track_2521_frame_1526"
+        },
+        {
+          "embedding_id": "vehicle_track_2521_frame_1556"
+        },
+        {
+          "embedding_id": "vehicle_track_2521_frame_1586"
+        }
+      ]
+    },
+    {
+      "global_id": "person_0053",
+      "class": "person",
+      "video_id": "test1",
+      "track_ids": [
+        2509
+      ],
+      "embeddings": [
+        {
+          "embedding_id": "person_track_2509_frame_1500"
+        }
+      ]
+    },
+    {
+      "global_id": "person_0054",
+      "class": "person",
+      "video_id": "test1",
+      "track_ids": [
+        2500
+      ],
+      "embeddings": [
+        {
+          "embedding_id": "person_track_2500_frame_1512"
+        }
+      ]
+    },
+    {
+      "global_id": "vehicle_0024",
+      "class": "vehicle",
+      "video_id": "test1",
+      "track_ids": [
+        2555
+      ],
+      "embeddings": [
+        {
+          "embedding_id": "vehicle_track_2555_frame_1513"
+        }
+      ]
+    },
+    {
+      "global_id": "person_0055",
+      "class": "person",
+      "video_id": "test1",
+      "track_ids": [
+        2573
+      ],
+      "embeddings": [
+        {
+          "embedding_id": "person_track_2573_frame_1524"
+        }
+      ]
+    },
+    {
+      "global_id": "person_0056",
+      "class": "person",
+      "video_id": "test1",
+      "track_ids": [
+        2634
+      ],
+      "embeddings": [
+        {
+          "embedding_id": "person_track_2634_frame_1545"
+        }
+      ]
+    },
+    {
+      "global_id": "vehicle_0025",
+      "class": "vehicle",
+      "video_id": "test1",
+      "track_ids": [
+        2640
+      ],
+      "embeddings": [
+        {
+          "embedding_id": "vehicle_track_2640_frame_1565"
+        }
+      ]
+    },
+    {
+      "global_id": "vehicle_0026",
+      "class": "vehicle",
+      "video_id": "test1",
+      "track_ids": [
+        2703
+      ],
+      "embeddings": [
+        {
+          "embedding_id": "vehicle_track_2703_frame_1579"
+        },
+        {
+          "embedding_id": "vehicle_track_2703_frame_1609"
+        },
+        {
+          "embedding_id": "vehicle_track_2703_frame_1639"
+        },
+        {
+          "embedding_id": "vehicle_track_2703_frame_1669"
+        }
+      ]
+    },
+    {
+      "global_id": "person_0057",
+      "class": "person",
+      "video_id": "test1",
+      "track_ids": [
+        2624
+      ],
+      "embeddings": [
+        {
+          "embedding_id": "person_track_2624_frame_1587"
+        },
+        {
+          "embedding_id": "person_track_2624_frame_1617"
+        },
+        {
+          "embedding_id": "person_track_2624_frame_1647"
+        }
+      ]
+    },
+    {
+      "global_id": "person_0058",
+      "class": "person",
+      "video_id": "test1",
+      "track_ids": [
+        2722
+      ],
+      "embeddings": [
+        {
+          "embedding_id": "person_track_2722_frame_1587"
+        },
+        {
+          "embedding_id": "person_track_2722_frame_1619"
+        }
+      ]
+    },
+    {
+      "global_id": "person_0059",
+      "class": "person",
+      "video_id": "test1",
+      "track_ids": [
+        2745
+      ],
+      "embeddings": [
+        {
+          "embedding_id": "person_track_2745_frame_1599"
+        },
+        {
+          "embedding_id": "person_track_2745_frame_1653"
+        }
+      ]
+    },
+    {
+      "global_id": "person_0060",
+      "class": "person",
+      "video_id": "test1",
+      "track_ids": [
+        2700
+      ],
+      "embeddings": [
+        {
+          "embedding_id": "person_track_2700_frame_1600"
+        }
+      ]
+    },
+    {
+      "global_id": "person_0061",
+      "class": "person",
+      "video_id": "test1",
+      "track_ids": [
+        2627
+      ],
+      "embeddings": [
+        {
+          "embedding_id": "person_track_2627_frame_1603"
+        },
+        {
+          "embedding_id": "person_track_2627_frame_1633"
+        },
+        {
+          "embedding_id": "person_track_2627_frame_1663"
+        }
+      ]
+    },
+    {
+      "global_id": "person_0062",
+      "class": "person",
+      "video_id": "test1",
+      "track_ids": [
+        2791
+      ],
+      "embeddings": [
+        {
+          "embedding_id": "person_track_2791_frame_1613"
+        },
+        {
+          "embedding_id": "person_track_2791_frame_1643"
+        }
+      ]
+    },
+    {
+      "global_id": "vehicle_0027",
+      "class": "vehicle",
+      "video_id": "test1",
+      "track_ids": [
+        2823
+      ],
+      "embeddings": [
+        {
+          "embedding_id": "vehicle_track_2823_frame_1639"
+        }
+      ]
+    },
+    {
+      "global_id": "vehicle_0028",
+      "class": "vehicle",
+      "video_id": "test1",
+      "track_ids": [
+        2697
+      ],
+      "embeddings": [
+        {
+          "embedding_id": "vehicle_track_2697_frame_1643"
+        }
+      ]
+    },
+    {
+      "global_id": "person_0063",
+      "class": "person",
+      "video_id": "test1",
+      "track_ids": [
+        2878
+      ],
+      "embeddings": [
+        {
+          "embedding_id": "person_track_2878_frame_1644"
+        },
+        {
+          "embedding_id": "person_track_2878_frame_1674"
+        }
+      ]
+    },
+    {
+      "global_id": "vehicle_0029",
+      "class": "vehicle",
+      "video_id": "test1",
+      "track_ids": [
+        2874
+      ],
+      "embeddings": [
+        {
+          "embedding_id": "vehicle_track_2874_frame_1652"
+        }
+      ]
+    },
+    {
+      "global_id": "vehicle_0030",
+      "class": "vehicle",
+      "video_id": "test1",
+      "track_ids": [
+        2913
+      ],
+      "embeddings": [
+        {
+          "embedding_id": "vehicle_track_2913_frame_1662"
+        }
+      ]
+    },
+    {
+      "global_id": "person_0064",
+      "class": "person",
+      "video_id": "test1",
+      "track_ids": [
+        2938
+      ],
+      "embeddings": [
+        {
+          "embedding_id": "person_track_2938_frame_1667"
+        }
+      ]
+    },
+    {
+      "global_id": "person_0065",
+      "class": "person",
+      "video_id": "test1",
+      "track_ids": [
+        2934
+      ],
+      "embeddings": [
+        {
+          "embedding_id": "person_track_2934_frame_1667"
+        }
+      ]
+    }
+  ]
+}
