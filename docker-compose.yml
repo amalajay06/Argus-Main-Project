@@ -1,0 +1,44 @@
+version: "3.9"
+
+# Local infrastructure for Argus development.
+# Run: docker compose up -d
+# This does NOT run the Spring Boot backend, the Python AI service, or the
+# frontend — those run separately (see README.md) so you can iterate on them
+# with hot reload.
+
+services:
+  postgres:
+    image: pgvector/pgvector:pg16
+    container_name: argus-postgres
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: argus
+      POSTGRES_PASSWORD: argus_dev_password
+      POSTGRES_DB: argus
+    ports:
+      - "5432:5432"
+    volumes:
+      - argus_pg_data:/var/lib/postgresql/data
+      - ./infra/postgres/init.sql:/docker-entrypoint-initdb.d/init.sql:ro
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U argus -d argus"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+
+  neo4j:
+    image: neo4j:5-community
+    container_name: argus-neo4j
+    restart: unless-stopped
+    environment:
+      NEO4J_AUTH: neo4j/argus_dev_password
+      NEO4J_PLUGINS: '["apoc"]'
+    ports:
+      - "7474:7474" # browser UI
+      - "7687:7687" # bolt
+    volumes:
+      - argus_neo4j_data:/data
+
+volumes:
+  argus_pg_data:
+  argus_neo4j_data:
